@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://github.com/LucasKiyoshi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasKiyoshi&show_icons=true%theme=dracula&include_all_comits=true&count_private=true"/>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top=langs/?username=LucasKiyoshi$layout=compact&langs_count=168theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasKiyoshi&show_icons=true%theme=dark&include_all_comits=true&count_private=true"/>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top=langs/?username=LucasKiyoshi$layout=compact&langs_count=168theme=dark"/>
  </div>
