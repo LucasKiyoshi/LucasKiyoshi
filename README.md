@@ -1,7 +1,7 @@
 ### Olá pessoa!Eu sou o Lucas Kiyoshi 👋
 
-- 🔭 Atualmente sou estagiario de T.I
-- 🌱 Estudando Java e JavaScrip
+- 🔭 Atualmente estagiando na area de T.I
+- 🌱 Estudando Java e JavaScript
 - 📫 Contate-me no email: kiyoshilara@gmail.com
 - 😄 Pronome: ele/dele
 
