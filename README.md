@@ -1,6 +1,6 @@
 ### Olá pessoa!Eu sou o Lucas Kiyoshi 👋
 
-- 🔭 Atualmente estagiando na area de T.I
+- 🔭 Atualmente trabalhando na area de T.I
 - 🌱 Estudando Front-End
 - 📫 Contate-me no email: kiyoshilara@gmail.com
 - 😄 Pronome: ele/dele
