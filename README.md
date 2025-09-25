@@ -1,7 +1,7 @@
 <h2 align="left">Hello Word👋! My name is Lucas Kiyoshi and I'm Computer Engineer, from Brazil 🇧🇷 </h2>
 
 - 🔭 Currently working in the IT area as a Systems Analyst
-- 🌱 Studying Front-End, Back-End and data analysis
+- 🌱 Studying Back-End, AI and data analysis
 
 <h2 align="center"> :computer: Welcome to my GitHub </h2>
 
